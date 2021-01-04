@@ -1,20 +1,26 @@
 [
-	{
-		"date": "2021-01-01",
-		"time": "23:45",
-		"distance": 0.95,
-		"map": "https://onthegomap.com/s/rf9hfdqk"
-	},
-	{
-                "date": "2021-01-02",
-                "time": "00:00",
-                "distance": 0.96,
-                "map": "https://onthegomap.com/s/rf9hfdqk"
-        },
-        {
-                "date": "2021-01-03",
-                "time": "11:00",
-                "distance": 4.12,
-                "map": "https://onthegomap.com/s/3bjjdf6p"
-        }
+  {
+    "date": "2021-01-01",
+    "time": "23:45",
+    "distance": 0.95,
+    "map": "https://onthegomap.com/s/rf9hfdqk"
+  },
+  {
+    "date": "2021-01-02",
+    "time": "00:00",
+    "distance": 0.96,
+    "map": "https://onthegomap.com/s/rf9hfdqk"
+  },
+  {
+    "date": "2021-01-03",
+    "time": "11:00",
+    "distance": 4.12,
+    "map": "https://onthegomap.com/s/3bjjdf6p"
+  },
+  {
+    "date": "2021-01-04",
+    "time": "06:40",
+    "distance": 2.02,
+    "map": "https://onthegomap.com/s/4qkfvuk4"
+  }
 ]
