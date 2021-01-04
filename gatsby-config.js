@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Phil For 365`,
+    title: `Phil’s 365`,
     description: `I am attempting to run 0.5 miles for 365 consecutive days starting January 1, 2021. Keep track of my progress here.`,
     author: `@gatsbyjs`,
   },
