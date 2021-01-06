@@ -544,7 +544,8 @@ thead {
 }
 td,
 th {
-  text-align: left;
+  font-size: 0.85em;
+  text-align: center;
   border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
   font-feature-settings: "tnum";
   -moz-font-feature-settings: "tnum";
@@ -555,6 +556,10 @@ th {
   padding-top: 0.725rem;
   padding-bottom: calc(0.725rem - 1px);
 }
+th {
+  font-weight: 600;
+}
+
 th:first-child,
 td:first-child {
   padding-left: 0;
@@ -593,5 +598,26 @@ pre tt:after {
 @media only screen and (max-width: 480px) {
   html {
     font-size: 100%;
+  }
+}
+
+td.col-remarks {
+  text-align: left;
+}
+
+
+.col-remarks,
+.col-time {
+  display: none;
+}
+
+@media only screen and (min-width: 600px) {
+  .col-remarks,
+  .col-time {
+    display: table-cell;
+  }
+
+  .col-time, .col-cumulative {
+    width: 18%;
   }
 }

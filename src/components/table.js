@@ -10,11 +10,12 @@ const Table = () => {
 		<table>
 			<thead>
 			<tr>
-				<th>Date</th>
-				<th>Time of Day</th>
-				<th>Distance</th>
-				<th>Cumulative Distance</th>
-				<th>Route</th>
+				<th className="col-date">Date</th>
+				<th className="col-time">Time of Day</th>
+				<th className="col-distance">Distance</th>
+				<th className="col-cumulative">Total Distance</th>
+				<th className="col-route">Route</th>
+				<th className="col-remarks">Remarks</th>
 			</tr>
 			</thead>
 			<tbody>
@@ -24,13 +25,14 @@ const Table = () => {
 					cumulativeDistance += dayData.distance;
 
 					return <tr key={ dayData.date }>
-						<td>{ dayData.date }</td>
-						<td>{ dayData.time }</td>
-						<td>{ dayData.distance }</td>
-						<td>{ cumulativeDistance }</td>
-						<td>
+						<td className="col-date">{ dayData.date }</td>
+						<td className="col-time">{ dayData.time }</td>
+						<td className="col-distance">{ dayData.distance }</td>
+						<td className="col-cumulative">{ cumulativeDistance }</td>
+						<td className="col-route">
 							<Link target="_blank" to={ dayData.map }>Map</Link>
 						</td>
+						<td  className="col-remarks">{ dayData.remark }</td>
 					</tr>
 				} )
 			}
