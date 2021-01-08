@@ -36,5 +36,19 @@
     "time": "21:15",
     "distance": 2.49,
     "map": "https://onthegomap.com/s/67ca4tg3"
+  },
+  {
+    "date": "2021-01-07",
+    "time": "23:45",
+    "distance": 1.00,
+    "map": "https://onthegomap.com/s/4qkfvuk4",
+    "remark": "(Split)"
+  },
+  {
+    "date": "2021-01-08",
+    "time": "00:00",
+    "distance": 1.01,
+    "map": "https://onthegomap.com/s/4qkfvuk4",
+    "remark": "(Split)"
   }
 ]
