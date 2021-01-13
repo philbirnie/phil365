@@ -22,13 +22,15 @@ const Table = () => {
 			{
 				runData.map( ( dayData ) => {
 
-					cumulativeDistance += dayData.distance;
+					cumulativeDistance += dayData.distance * 100;
+
+					const cumulativeDistanceDisplayed = Math.round(cumulativeDistance) / 100;
 
 					return <tr key={ dayData.date }>
 						<td className="col-date">{ dayData.date }</td>
 						<td className="col-time">{ dayData.time }</td>
 						<td className="col-distance">{ dayData.distance }</td>
-						<td className="col-cumulative">{ cumulativeDistance }</td>
+						<td className="col-cumulative">{ cumulativeDistanceDisplayed }</td>
 						<td className="col-route">
 							<Link target="_blank" to={ dayData.map }>Map</Link>
 						</td>
