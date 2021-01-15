@@ -3,6 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Table from "../components/table"
+import Stats from "../components/stats"
 
 const IndexPage = () => (
   <Layout>
@@ -15,6 +16,7 @@ const IndexPage = () => (
       <li>Runs than span midnight may count as both days.</li>
     </ul>
     <Table />
+    <Stats />
   </Layout>
 )
 
