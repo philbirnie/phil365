@@ -1,10 +1,11 @@
 import React from "react"
 import runData from "../data/run-data.json";
 import { Link } from "gatsby";
+import { Sum } from '../utilities/aggregators';
 
 const Table = () => {
 
-	let cumulativeDistance = 0.00;
+	let cumulativeDistance = runData.map( day => day.distance ).reduce( Sum ) * 100;
 
 	return (
 		<table>
@@ -20,11 +21,10 @@ const Table = () => {
 			</thead>
 			<tbody>
 			{
-				runData.map( ( dayData ) => {
+				runData.reverse().map( ( dayData ) => {
 
-					cumulativeDistance += dayData.distance * 100;
-
-					const cumulativeDistanceDisplayed = Math.round(cumulativeDistance) / 100;
+					const cumulativeDistanceDisplayed = Math.round( cumulativeDistance ) / 100;
+					cumulativeDistance -= dayData.distance * 100;
 
 					return <tr key={ dayData.date }>
 						<td className="col-date">{ dayData.date }</td>
@@ -34,7 +34,7 @@ const Table = () => {
 						<td className="col-route">
 							<Link target="_blank" to={ dayData.map }>Map</Link>
 						</td>
-						<td  className="col-remarks">{ dayData.remark }</td>
+						<td className="col-remarks">{ dayData.remark }</td>
 					</tr>
 				} )
 			}

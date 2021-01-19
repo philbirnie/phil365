@@ -1,11 +1,11 @@
 import React from "react"
 import runData from "../data/run-data.json";
+import { Sum } from '../utilities/aggregators';
 
 const Stats = () => {
 
-	const sum = ( accumulator, currentValue ) => accumulator + currentValue;
 
-	const average = runData.map( day => day.distance ).reduce( sum ) / runData.length;
+	const average = runData.map( day => day.distance ).reduce( Sum ) / runData.length;
 
 	const max = Math.max.apply( Math, runData.map( day => parseFloat( day.distance ) ) );
 
