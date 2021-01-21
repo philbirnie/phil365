@@ -120,5 +120,12 @@
     "time": "05:40",
     "distance": 4.63,
     "map": "https://onthegomap.com/s/8prpmtes"
+  },
+  {
+    "date": "2021-01-20",
+    "time": "22:30",
+    "distance": 2.03,
+    "map": "https://onthegomap.com/s/30mp0qqs",
+    "remark": "Steps feel a little lighter today..."
   }
 ]
