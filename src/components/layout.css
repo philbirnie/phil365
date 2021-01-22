@@ -610,6 +610,36 @@ td.col-remarks {
   display: none;
 }
 
+.stats dl {
+  display: grid;
+  font-size: 84%;
+  text-align: center;
+  grid-template-columns: repeat(4, minmax(125px, 25%));
+  grid-gap: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .stats dl {
+    grid-template-columns: auto;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .stats dl {
+    grid-template-columns: repeat(2, minmax(200px, 50%));
+  }
+}
+
+
+.stats div {
+
+}
+
+.stats dt {
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+}
+
 @media only screen and (min-width: 600px) {
   .col-remarks,
   .col-time {
