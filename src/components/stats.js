@@ -14,7 +14,7 @@ const Stats = () => {
 
 	const ThousandDifferential = ( ( 1000 / 365 ) * totalDays ) - totalMiles;
 
-	const ThousandDifferentialLabel = ThousandDifferential > 0 ? 'short' : 'ahead';
+	const ThousandDifferentialLabel = ThousandDifferential > 0 ? 'behind' : 'ahead';
 
 	return (
 		<div className="stats">
