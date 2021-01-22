@@ -15,8 +15,8 @@ const IndexPage = () => (
       <li>Run at least 0.5 miles per day</li>
       <li>Runs than span midnight may count as both days.</li>
     </ul>
-    <Table />
     <Stats />
+    <Table />
   </Layout>
 )
 

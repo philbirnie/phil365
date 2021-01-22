@@ -610,34 +610,35 @@ td.col-remarks {
   display: none;
 }
 
+.stats {
+  margin-bottom: 2.0em;
+  padding: 0.25em 0;
+  border-top: 1px dotted hsla(0, 0%, 0%, 0.12);
+  border-bottom: 1px dotted hsla(0, 0%, 0%, 0.12);
+}
+
 .stats dl {
   display: grid;
-  font-size: 84%;
+  margin-bottom: 0;
+  font-size: 80%;
   text-align: center;
-  grid-template-columns: repeat(4, minmax(125px, 25%));
+  grid-template-columns: repeat(4, minmax(100px, 25%));
   grid-gap: 20px;
 }
 
 @media only screen and (max-width: 600px) {
   .stats dl {
-    grid-template-columns: auto;
+    grid-template-columns: repeat(2, minmax(100px, 50%));
   }
-}
-
-@media only screen and (max-width: 800px) {
-  .stats dl {
-    grid-template-columns: repeat(2, minmax(200px, 50%));
-  }
-}
-
-
-.stats div {
-
 }
 
 .stats dt {
   padding-bottom: 0.25em;
-  border-bottom: 1px solid hsla(0, 0%, 0%, 0.12);
+  border-bottom: 1px dotted hsla(0, 0%, 0%, 0.12);
+}
+
+.stats dd {
+  margin-bottom: 0;
 }
 
 @media only screen and (min-width: 600px) {
