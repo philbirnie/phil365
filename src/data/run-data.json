@@ -139,5 +139,12 @@
     "time": "15:50",
     "distance": 5.44,
     "map": "https://onthegomap.com/s/hannlncb"
+  },
+  {
+    "date": "2021-01-23",
+    "time": "12:35",
+    "distance": 2.69,
+    "map": "https://onthegomap.com/s/r6eig9ot",
+    "remark": "Hello Westerville..."
   }
 ]
