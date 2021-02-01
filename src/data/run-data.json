@@ -197,5 +197,12 @@
     "time": "14:50",
     "distance": 3.07,
     "map": "https://onthegomap.com/s/vuetie73"
+  },
+  {
+    "date": "2021-02-01",
+    "time": "15:40",
+    "distance": 2.81,
+    "map": "https://onthegomap.com/s/hu4gv0ja",
+    "remark": "Snowy!"
   }
 ]
