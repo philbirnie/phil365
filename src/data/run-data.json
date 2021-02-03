@@ -207,8 +207,14 @@
   },
   {
     "date": "2021-02-02",
-    "time": "23:40",
+    "time": "23:30",
     "distance": 3.57,
     "map": "https://onthegomap.com/s/vk6jnq96"
+  },
+  {
+    "date": "2021-02-03",
+    "time": "17:55",
+    "distance": 2.06,
+    "map": "https://onthegomap.com/s/u7bbpeud"
   }
 ]
