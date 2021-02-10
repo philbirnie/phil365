@@ -8,6 +8,8 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import "fontsource-lato/latin-400.css"
+import "fontsource-lato/latin-700.css"
 
 import Header from "./header"
 import "./layout.css"
