@@ -260,5 +260,19 @@
     "time": "22:10",
     "distance": 3.02,
     "map": "https://onthegomap.com/s/m6bep96e"
+  },
+  {
+    "date": "2021-02-11",
+    "time": "22:55",
+    "distance": 1.65,
+    "map": "https://onthegomap.com/s/amo1vnvd",
+    "remark": "Location: Fabulous.  Temperature: Brutal. (-1º)"
+  },
+  {
+    "date": "2021-02-12",
+    "time": "17:35",
+    "distance": 3.03,
+    "map": "https://onthegomap.com/s/drqfrlc4",
+    "remark": "Much Better. 16º :)"
   }
 ]
