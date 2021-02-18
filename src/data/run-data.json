@@ -292,5 +292,17 @@
     "time": "20:30",
     "distance": 2.01,
     "map": "https://onthegomap.com/s/93b7ituq"
+  },
+  {
+    "date": "2021-02-16",
+    "time": "23:10",
+    "distance": 1.85,
+    "map": "https://onthegomap.com/s/7rq0m7pj"
+  },
+  {
+    "date": "2021-02-17",
+    "time": "23:00",
+    "distance": 2.67,
+    "map": "https://onthegomap.com/s/uve99jph"
   }
 ]
