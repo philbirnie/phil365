@@ -29,7 +29,7 @@ const Stats = () => {
 				</div>
 				<div>
 					<dt>Yearly Completion</dt>
-					<dd>{ RoundFloat( runData.length / 3.65 ) }%</dd>
+					<dd>{ RoundFloat( runData.length / 3.65 ) }% ( {runData.length} days)</dd>
 				</div>
 				<div>
 					<dt>1,000 Mile Goal Pace</dt>
