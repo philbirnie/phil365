@@ -394,6 +394,12 @@
     "time": "20:00",
     "distance": 3.14,
     "map": "https://onthegomap.com/s/q322ttkf"
+  },
+  {
+    "date": "2021-03-05",
+    "time": "18:10",
+    "distance": 4.3,
+    "map": "https://onthegomap.com/s/mas9eous"
   }
 
 ]
