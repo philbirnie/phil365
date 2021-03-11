@@ -425,5 +425,12 @@
     "time": "23:15",
     "distance": 2.72,
     "map": "https://onthegomap.com/s/m3ke78lf"
+  },
+  {
+    "date": "2021-03-10",
+    "time": "19:20",
+    "distance": 3.36,
+    "map": "https://onthegomap.com/s/r29qb5r4",
+    "remark": "I had forgotten what it feels like to run in 60-degree weather."
   }
 ]
