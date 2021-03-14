@@ -444,5 +444,12 @@
     "time": "17:00",
     "distance": 3.21,
     "map": "https://onthegomap.com/s/p8utqdjk"
+  },
+  {
+    "date": "2021-03-13",
+    "time": "21:30",
+    "distance": 3.78,
+    "map": "https://onthegomap.com/s/o6rthmog",
+    "remark": "Beautiful, starry evening - 39º. Perfection!"
   }
 ]
