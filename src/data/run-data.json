@@ -463,5 +463,12 @@
     "time": "19:30",
     "distance": 3.72,
     "map": "https://onthegomap.com/s/7q04gqk1"
+  },
+  {
+    "date": "2021-03-16",
+    "time": "23:00",
+    "distance": 2.35,
+    "map": "https://onthegomap.com/s/l86i2oo0",
+    "remark": "Two Barred Owls. Who cooks for you?"
   }
 ]
