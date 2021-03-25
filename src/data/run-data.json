@@ -519,5 +519,12 @@
     "time": "16:45",
     "distance": 4.15,
     "map": "https://onthegomap.com/s/4jg77m55"
+  },
+  {
+    "date": "2021-03-25",
+    "time": "18:00",
+    "distance": 1.46,
+    "map": "https://onthegomap.com/s/61joivjh",
+    "remark": "Vaccine 1!"
   }
 ]
