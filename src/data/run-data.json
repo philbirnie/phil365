@@ -571,8 +571,20 @@
     "map": "https://onthegomap.com/s/1ai7b7cv"
   },
   {
-    "date": "2021-04-03",
+    "date": "2021-04-02",
     "time": "22:15",
+    "distance": 2.97,
+    "map": "https://onthegomap.com/s/a8k2ldn2"
+  },
+  {
+    "date": "2021-04-03",
+    "time": "18:15",
+    "distance": 2.51,
+    "map": "https://onthegomap.com/s/l1q12njl"
+  },
+  {
+    "date": "2021-04-04",
+    "time": "12:45",
     "distance": 2.97,
     "map": "https://onthegomap.com/s/a8k2ldn2"
   }
