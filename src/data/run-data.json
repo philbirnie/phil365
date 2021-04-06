@@ -593,5 +593,12 @@
     "time": "06:55",
     "distance": 3.19,
     "map": "https://onthegomap.com/s/ulv656cv"
+  },
+  {
+    "date": "2021-04-06",
+    "time": "17:20",
+    "distance": 3.00,
+    "map": "https://onthegomap.com/s/40ol9bq1",
+    "remark": "Not used to running in the tropics!"
   }
 ]
