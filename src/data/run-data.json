@@ -631,5 +631,12 @@
     "time": "22:00",
     "distance": 2.01,
     "map": "https://onthegomap.com/s/dfgeglbj"
+  },
+  {
+    "date": "2021-04-12",
+    "time": "17:50",
+    "distance": 3.75,
+    "map": "https://onthegomap.com/s/v46v1mvu",
+    "remark": "Good to be back on the trails!"
   }
 ]
