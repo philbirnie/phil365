@@ -656,5 +656,12 @@
     "time": "18:15",
     "distance": 4.84,
     "map": "https://onthegomap.com/s/p5pm0mma"
+  },
+  {
+    "date": "2021-04-16",
+    "time": "23:00",
+    "distance": 2.07,
+    "map": "https://onthegomap.com/s/q3noaqeo",
+    "remark": "Vaccine dose #2 Hangover."
   }
 ]
