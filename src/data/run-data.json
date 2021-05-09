@@ -799,5 +799,12 @@
     "time": "19:10",
     "distance": 2.54,
     "map": "https://onthegomap.com/s/kghi9l0v"
+  },
+  {
+    "date": "2021-05-09",
+    "time": "12:30",
+    "distance": 4.12,
+    "map": "https://onthegomap.com/s/ds16g85q",
+    "remark": "No overheating today! Cold and wet!"
   }
 ]
