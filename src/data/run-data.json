@@ -873,5 +873,20 @@
     "time": "18:15",
     "distance": 1.16,
     "map": "https://onthegomap.com/s/e0sa0nnt"
+  },
+  {
+    "date": "2021-05-21",
+    "time": "21:00",
+    "distance": 4.3,
+    "map": "https://www.runragnar.com/event-detail/trail/kentuckiana_ky#course",
+    "remark": "Ragnar Day 1!"
+  },
+  {
+    "date": "2021-05-22",
+    "time": "05:30",
+    "distance": 10.6,
+    "map": "https://www.runragnar.com/event-detail/trail/kentuckiana_ky#course",
+    "remark": "Ragnar Day 2! (also a beast of a run at 13:00)"
   }
+
 ]
