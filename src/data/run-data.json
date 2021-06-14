@@ -1013,8 +1013,14 @@
   },
   {
     "date": "2021-06-12",
-    "time": "19:!5",
+    "time": "19:15",
     "distance": 2.6,
     "map": "https://onthegomap.com/s/acu3u8ll"
+  },
+  {
+    "date": "2021-06-13",
+    "time": "23:45",
+    "distance": 2.89,
+    "map": "nhttps://onthegomap.com/s/4qr6vme5"
   }
 ]
