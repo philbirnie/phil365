@@ -953,7 +953,7 @@
     "time": "18:15",
     "distance": 3.9,
     "map": "https://onthegomap.com/s/flgkmbeg",
-    "remarks": "In the ‘Nati!"
+    "remark": "In the ‘Nati!"
   },
   {
     "date": "2021-06-03",
@@ -966,7 +966,7 @@
     "time": "20:30",
     "distance": 3.02,
     "map": "https://onthegomap.com/s/lp9279rj",
-    "remarks": "Roscoe!"
+    "remark": "Roscoe!"
   },
   {
     "date": "2021-06-05",
@@ -985,7 +985,7 @@
     "time": "23:00",
     "distance": 1.91,
     "map": "https://onthegomap.com/s/a7os6ab9",
-    "remarks": "Halfway to goal #1."
+    "remark": "Halfway to goal #1."
   },
   {
     "date": "2021-06-08",
@@ -1022,5 +1022,12 @@
     "time": "23:45",
     "distance": 2.89,
     "map": "nhttps://onthegomap.com/s/4qr6vme5"
+  },
+  {
+    "date": "2021-06-14",
+    "time": "19:00",
+    "distance": 4.09,
+    "map": "https://onthegomap.com/s/ujj191h4",
+    "remark": "Some areas of town I have not seen for a LONG time"
   }
 ]
