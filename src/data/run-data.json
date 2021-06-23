@@ -1068,5 +1068,17 @@
     "distance": 2.8,
     "map": "https://onthegomap.com/s/4c7j54rn",
     "remark": "Happy Solstice!"
+  },
+  {
+    "date": "2021-06-21",
+    "time": "23:30",
+    "distance": 3.58,
+    "map": "https://onthegomap.com/s/r4tkk1ui"
+  },
+  {
+    "date": "2021-06-22",
+    "time": "22:45",
+    "distance": 3.03,
+    "map": "https://onthegomap.com/s/o3rjs8gp"
   }
 ]
