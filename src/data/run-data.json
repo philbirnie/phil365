@@ -1092,5 +1092,29 @@
     "time": "07:50",
     "distance": 2.57,
     "map": "https://onthegomap.com/s/6nutmat1"
+  },
+  {
+    "date": "2021-06-25",
+    "time": "16:00",
+    "distance": 2.65,
+    "map": "https://onthegomap.com/s/6b21dp3s"
+  },
+  {
+    "date": "2021-06-26",
+    "time": "22:30",
+    "distance": 1.59,
+    "map": "https://onthegomap.com/s/o9ejpt2e"
+  },
+  {
+    "date": "2021-06-27",
+    "time": "08:00",
+    "distance": 2.54,
+    "map": "https://onthegomap.com/s/4ros4098"
+  },
+  {
+    "date": "2021-06-28",
+    "time": "12:00",
+    "distance": 5.13,
+    "map": "https://onthegomap.com/s/oisbs240"
   }
 ]
