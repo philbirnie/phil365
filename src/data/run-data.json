@@ -1151,7 +1151,7 @@
   },
   {
     "date": "2021-07-04",
-    "time": "16:00",
+    "time": "16:30",
     "distance": 3.43,
     "map": "https://onthegomap.com/s/6e3jvr6g"
   },
@@ -1160,5 +1160,11 @@
     "time": "19:05",
     "distance": 3.56,
     "map": "https://onthegomap.com/s/j6g0t6va"
+  },
+  {
+    "date": "2021-07-06",
+    "time": "08:20",
+    "distance": 2.02,
+    "map": "https://onthegomap.com/s/p66rrtt0"
   }
 ]
