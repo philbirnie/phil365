@@ -1289,7 +1289,13 @@
   {
     "date": "2021-07-26",
     "time": "19:10",
-    "distance": 4.04,
+    "distance": 4.08,
     "map": "https://onthegomap.com/s/r2poich8"
+  },
+  {
+    "date": "2021-07-27",
+    "time": "22:30",
+    "distance": 3.03,
+    "map": "https://onthegomap.com/s/cr4jorkc"
   }
 ]
