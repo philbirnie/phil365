@@ -1309,5 +1309,18 @@
     "time": "18:00",
     "distance": 4.23,
     "map": "https://onthegomap.com/s/4go516qg"
+  },
+  {
+    "date": "2021-07-30",
+    "time": "23:00",
+    "distance": 2.01,
+    "map": "https://onthegomap.com/s/4qkfvuk4"
+  },
+  {
+    "date": "2021-07-31",
+    "time": "07:30",
+    "distance": 6.77,
+    "map": "https://onthegomap.com/s/uoupmk09",
+    "remark": "Nice to have a run with some company!"
   }
 ]
