@@ -1425,5 +1425,23 @@
     "time": "21:00",
     "distance": 5.37,
     "map": "https://onthegomap.com/s/mofi9nto"
+  },
+  {
+    "date": "2021-08-18",
+    "time": "23:00",
+    "distance": 1.6,
+    "map": "https://onthegomap.com/s/pkm4ksle"
+  },
+  {
+    "date": "2021-08-19",
+    "time": "21:30",
+    "distance": 4.89,
+    "map": "https://onthegomap.com/s/pkm4ksle"
+  },
+  {
+    "date": "2021-08-20",
+    "time": "22:45",
+    "distance": 3.11,
+    "map": "https://onthegomap.com/s/pkm4ksle"
   }
 ]
