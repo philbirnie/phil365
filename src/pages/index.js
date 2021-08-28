@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Table from "../components/table"
 import Stats from "../components/stats"
-import MothlyStats from "../components/monthly-stats"
+import MonthlyStats from "../components/monthly-stats"
 
 const IndexPage = () => (
     <Layout>
@@ -17,7 +17,7 @@ const IndexPage = () => (
         </ul>
         <Stats />
         <h3>Monthly Totals</h3>
-        <MothlyStats />
+        <MonthlyStats />
         <Table />
     </Layout>
 )
