@@ -1485,5 +1485,12 @@
     "time": "22:15",
     "distance": 4.19,
     "map": "https://onthegomap.com/s/enineu5v"
+  },
+  {
+    "date": "2021-08-28",
+    "time": "17:30",
+    "distance": 4.94,
+    "map": "https://onthegomap.com/s/s91aocc4",
+    "remark" : "Hot, Hot Hot!"
   }
 ]
