@@ -1517,5 +1517,24 @@
     "time": "19:55",
     "distance": 4.01,
     "map": "https://onthegomap.com/s/kejvk1h2"
+  },
+  {
+    "date": "2021-09-02",
+    "time": "21:45",
+    "distance": 4.91,
+    "map": "https://onthegomap.com/s/vbq2vv08"
+  },
+  {
+    "date": "2021-09-03",
+    "time": "14:30",
+    "distance": 1.00,
+    "map": "https://onthegomap.com/s/k7i7aeft",
+    "remark": "When you're ride is there to go to a Reds game and you suddenly realize that you probably won't be baack before midnight...."
+  },
+  {
+    "date": "2021-09-04",
+    "time": "17:30",
+    "distance": 5.67,
+    "map": "https://onthegomap.com/s/iiqcofu1"
   }
 ]
