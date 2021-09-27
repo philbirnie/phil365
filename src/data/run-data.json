@@ -1654,5 +1654,25 @@
     "time": "17:30",
     "distance": 4.29,
     "map": "https://onthegomap.com/s/8gomm8ip"
+  },
+  {
+    "date": "2021-09-24",
+    "time": "17:45",
+    "distance": 2.71,
+    "map": "https://onthegomap.com/s/h4sd5kg8",
+    "remark": "Lake Hope!  This is a fun trail."
+  },
+  {
+    "date": "2021-09-25",
+    "time": "08:15",
+    "distance": 4.06,
+    "map": "https://onthegomap.com/s/e2a45rum",
+    "remark": "Moonville Train Tunnel RR - did not go down to the tunnel this time, but a neat run."
+  },
+  {
+    "date": "2021-09-26",
+    "time": "18:45",
+    "distance": 3.21,
+    "map": "https://onthegomap.com/s/cb008ida"
   }
 ]
