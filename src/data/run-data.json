@@ -1718,5 +1718,17 @@
     "time": "16:15",
     "distance": 5.99,
     "map": "https://onthegomap.com/s/9vth907s"
+  },
+  {
+    "date": "2021-10-04",
+    "time": "22:50",
+    "distance": 2.04,
+    "map": "https://onthegomap.com/s/o3540cj7"
+  },
+  {
+    "date": "2021-10-05",
+    "time": "19:00",
+    "distance": 4.59,
+    "map": "https://onthegomap.com/s/m7gk3uqj"
   }
 ]
