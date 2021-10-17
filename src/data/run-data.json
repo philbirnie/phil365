@@ -1791,5 +1791,12 @@
     "time": "08:15",
     "distance": 2.21,
     "map": "https://onthegomap.com/s/96hsbm6m"
+  },
+  {
+    "date": "2021-10-16",
+    "time": "09:15",
+    "distance": 5.39,
+    "map": "https://onthegomap.com/s/b0l71srj",
+    "remark": "My Happy Place"
   }
 ]
