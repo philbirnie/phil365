@@ -1896,5 +1896,12 @@
     "time": "20:30",
     "distance": 3.16,
     "map": "https://onthegomap.com/s/31pp31vv"
+  },
+  {
+    "date": "2021-11-02",
+    "time": "21:15",
+    "distance": 2.28,
+    "map": "https://onthegomap.com/s/ptv4fvhf",
+    "remark": "Because the first thing you want to do after working a 15-hour election and standing all day is go home and run!"
   }
 ]
