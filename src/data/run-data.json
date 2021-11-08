@@ -1915,5 +1915,25 @@
     "time": "18:00",
     "distance": 2.88,
     "map": "https://onthegomap.com/s/on2idho9"
+  },
+  {
+    "date": "2021-11-05",
+    "time": "18:15",
+    "distance": 3.03,
+    "map": "https://onthegomap.com/s/uk2ak1m8"
+  },
+  {
+    "date": "2021-11-06",
+    "time": "05:50",
+    "distance": 2.06,
+    "map": "https://onthegomap.com/s/oiak4dgc",
+    "remark": "A chilly pre-backpacking run"
+  },
+  {
+    "date": "2021-11-07",
+    "time": "18:00",
+    "distance": 1.31,
+    "map": "https://onthegomap.com/s/gltmqgbi",
+    "remark": "Post-Backpacking run."
   }
 ]
