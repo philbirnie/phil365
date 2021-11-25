@@ -2040,5 +2040,12 @@
     "time": "18:30",
     "distance": 3.86,
     "map": "https://onthegomap.com/s/25uq7j0j"
+  },
+  {
+    "date": "2021-11-25",
+    "time": "13:15",
+    "distance": 4.21,
+    "map": "https://onthegomap.com/s/rundhpjg",
+    "remark": "Happy Thanksgiving! - Last 10%!"
   }
 ]
