@@ -2028,5 +2028,17 @@
     "time": "21:00",
     "distance": 3.52,
     "map": "https://onthegomap.com/s/0k1ic3fs"
+  },
+  {
+    "date": "2021-11-23",
+    "time": "17:30",
+    "distance": 2.98,
+    "map": "https://onthegomap.com/s/9134q9l4"
+  },
+  {
+    "date": "2021-11-24",
+    "time": "18:30",
+    "distance": 3.86,
+    "map": "https://onthegomap.com/s/25uq7j0j"
   }
 ]
