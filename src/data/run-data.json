@@ -2071,5 +2071,12 @@
     "time": "16:40",
     "distance": 5.73,
     "map": "https://onthegomap.com/s/2uut5qim"
+  },
+  {
+    "date": "2021-11-30",
+    "time": "17:00",
+    "distance": 3.57,
+    "map": "https://onthegomap.com/s/7sgk80gm",
+    "remark": "Beautiful day to finish up November."
   }
 ]
