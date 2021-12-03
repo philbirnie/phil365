@@ -18,7 +18,7 @@ const Stats = () => {
 
 	let GoalMetLabel = `${RoundFloat((1250 - totalMiles) / (365 - totalDays))} mi. per day required`;
 
-	if(totalMiles > 1000) {
+	if(totalMiles > 1250) {
 		GoalMetLabel = 'Goal Met!';
 	}
 
@@ -38,7 +38,7 @@ const Stats = () => {
 					<dd>{ RoundFloat( runData.length / 3.65 ) }% ( {runData.length} days)</dd>
 				</div>
 				<div>
-					<dt>1,000 Mile Goal Pace</dt>
+					<dt>1,250 Mile Goal Pace</dt>
 					<dd>{ RoundFloat( Math.abs( ThousandDifferential ) ) } miles { ThousandDifferentialLabel }</dd>
 					<dd>{ GoalMetLabel }</dd>
 				</div>
