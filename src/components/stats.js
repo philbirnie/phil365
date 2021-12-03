@@ -12,11 +12,11 @@ const Stats = () => {
 
 	const max = Math.max.apply( Math, runData.map( day => parseFloat( day.distance ) ) );
 
-	const ThousandDifferential = ( ( 1000 / 365 ) * totalDays ) - totalMiles;
+	const ThousandDifferential = ( ( 1250 / 365 ) * totalDays ) - totalMiles;
 
 	const ThousandDifferentialLabel = ThousandDifferential > 0 ? 'behind' : 'ahead';
 
-	let GoalMetLabel = `${RoundFloat((1000 - totalMiles) / (365 - totalDays))} mi. per day required`;
+	let GoalMetLabel = `${RoundFloat((1250 - totalMiles) / (365 - totalDays))} mi. per day required`;
 
 	if(totalMiles > 1000) {
 		GoalMetLabel = 'Goal Met!';
