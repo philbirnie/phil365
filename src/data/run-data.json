@@ -2149,8 +2149,14 @@
   },
   {
     "date": "2021-12-12",
-    "time": "08:40",
+    "time": "22:00",
     "distance": 2.53,
     "map": "https://onthegomap.com/s/u902uncg"
+  },
+  {
+    "date": "2021-12-13",
+    "time": "22:45",
+    "distance": 3.69,
+    "map": "https://onthegomap.com/s/vue27pk2"
   }
 ]
