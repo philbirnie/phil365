@@ -2182,5 +2182,12 @@
     "time": "16:30",
     "distance": 3.62,
     "map": "https://onthegomap.com/s/mpe04ugs"
+  },
+  {
+    "date": "2021-12-18",
+    "time": "12:45",
+    "distance": 5.37,
+    "map": "https://onthegomap.com/s/jsc5dfa6",
+    "remark": "I believe this is the first Powell run of the year."
   }
 ]
