@@ -2226,6 +2226,13 @@
     "date": "2021-12-24",
     "time": "09:30",
     "distance": 5.01,
-    "map": ""
+    "map": "https://onthegomap.com/s/9nvp2gvo"
+  },
+  {
+    "date": "2021-12-25",
+    "time": "14:30",
+    "distance": 3.97,
+    "map": "https://onthegomap.com/s/1gslguta",
+    "remark":"Merry Christmas! Glad to be free of the booster hangover!"
   }
 ]
