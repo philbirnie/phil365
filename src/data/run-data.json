@@ -2233,13 +2233,20 @@
     "time": "14:30",
     "distance": 3.97,
     "map": "https://onthegomap.com/s/1gslguta",
-    "remark":"Merry Christmas! Glad to be free of the booster hangover!"
+    "remark": "Merry Christmas! Glad to be free of the booster hangover!"
   },
   {
     "date": "2021-12-26",
     "time": "10:50",
     "distance": 4.36,
     "map": "https://onthegomap.com/s/84eco07r",
-    "remark":"Goal (revised, 1250 miles) met!"
+    "remark": "Goal (revised, 1250 miles) met!"
+  },
+  {
+    "date": "2021-12-27",
+    "time": "12:05",
+    "distance": 5.39,
+    "map": "https://onthegomap.com/s/b0l71srj",
+    "remark": "My happy place."
   }
 ]
