@@ -1,4 +1,5 @@
 import React from "react"
+import {Link} from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -10,6 +11,7 @@ const IndexPage = () => (
     <Layout>
         <SEO title="Phil Birnie runs for 365 Days in a Row" />
         <p>Starting on January 1, 2021, I will attempt to run for 365 days in a row and <s>1,000</s> 1,250 miles.</p>
+        <p><strong>This goal is complete!</strong> I wrote a <Link to="/running-summary-2021/">short post about my experience</Link>.</p>
         <h3>Rules:</h3>
         <ul>
             <li>Run at least 0.5 miles per day</li>
